@@ -1,2 +1,2 @@
 # feature-branch-workflow
-A simple, boring repo to demonstrate Git workflows involving feature branches 2dn ver
+A simple, boring repo to demonstrate Git workflows involving feature branches 2nd ver
